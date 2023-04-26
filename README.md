@@ -1,4 +1,5 @@
 ### Hi, I'm Viena 👋
+------------------------------------
 
 - 🔭 I’m currently working on HTML, CSS, JavaScript
 - 🌱 I’m currently learning React
